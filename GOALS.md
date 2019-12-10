@@ -1,4 +1,4 @@
-# Presto Foundation Strategic Goals 
+# Presto Foundation (PF) Strategic Goals 
 
 The Presto Foundation has published its goals for 2020:
 
@@ -10,7 +10,7 @@ The goals will be routinely revisited and updated for each year with input from 
 
 * Unify Presto under one neutral and openly governed community
 * Cultivate adoption of Presto
-* Create value for all PF developers and members
-* Grow PF membership 
-* Champion diversity and inclusion in the PF community
+* Create value for all Presto developers and members
+* Grow Presto membership 
+* Champion diversity and inclusion in the Presto community
 * Create community events to foster collaboration
